@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="Template"
+config/name="Space Shooter"
+run/main_scene="res://Game.tscn"
 config/icon="res://icon.png"
 
 [autoload]
